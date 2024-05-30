@@ -1,6 +1,6 @@
 Salut à vous, chers utilisateurs de ce code,
 
-Merci de prendre soin de ce code. C'est le plus grand code que j'ai pu faire, haha j'abuse un peu, mais en tout cas, pour la liste blanche, ça a été le plus compliqué.
+Merci de prendre soin de ce code. C'est le plus grand code que j'ai pu faire, haha j'abuse un peu, mais en tout cas, pour la wl, ça a été le plus compliqué.
 
 Bref, je le donne gratuitement et en open source, bien sûr.
 
