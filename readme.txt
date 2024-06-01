@@ -13,6 +13,7 @@ Psst, voici un endroit pour héberger le bot : https://katabump.com/host
 Code pour envoyer un système de bienvenue et donner un rôle automatiquement
 Tu vas dans le main.py et tu mets ce code :
 
+```py
 @client.event
 async def on_member_join(member):
     guild = member.guild
@@ -26,6 +27,7 @@ async def on_member_join(member):
     role = discord.utils.get(guild.roles, id=role_id)
     if role is not None:
         await member.add_roles(role)
+```
 
 // info: channel_id = le canal où le bot va envoyer le message et role_id = l'ID du rôle que l'utilisateur va recevoir en rejoignant le discord.
 
